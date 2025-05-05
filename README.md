@@ -12,7 +12,7 @@
 <h2> About Me: </h2>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="200" width="350" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47npbbdfwv2wl61gaak9a9iifreyc5m1opyv77e30n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img align="right" top="500" height="200" width="330" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47npbbdfwv2wl61gaak9a9iifreyc5m1opyv77e30n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </a>
 
 - 📚 Final-year student in Business Informatics at the University of Costa Rica

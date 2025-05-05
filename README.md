@@ -1,18 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=1378F7&pause=1000&center=true&width=435&lines=Hello+Everyone!" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=1378F7&pause=1000&center=true&width=435&lines=Hello+Everyone!;Hola+a+todos!" alt="Typing SVG" />
+	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center"> 
+	<h1>Hi! I’m Oscar Calvo. </h1> 
+</div>
 
 [![Github](https://img.shields.io/github/followers/Oskillar21?label=Follow&style=social)](https://github.com/Oskillar21)
 
-<div size='20px'> Hi! My name is Oscar. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+<h2> About Me: </h2>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="200" width="350" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47npbbdfwv2wl61gaak9a9iifreyc5m1opyv77e30n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</a>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+- 📚 Final-year student in Business Informatics at the University of Costa Rica
+  
 - 🔭 I’m currently looking for an intership!
   
 - 🌱 I’m currently learning Python, Tailwind and JavaScript
@@ -97,11 +101,16 @@
 	
 </ul>
 </div>
-
 <br>
+
+<div align="center"> 
+	<h5>Thank You for view my GitHub Profile ❤️</h5>
+</div>
+	
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=1378F7&pause=1000&center=true&width=435&lines=Thanks+for+read!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=1378F7&pause=1000&center=true&width=435&lines=Thanks+for+read!;Gracias+por+leer!" alt="Typing SVG" />
 </p>
 
 <br>

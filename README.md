@@ -15,15 +15,11 @@
   <img align="right" top="500" height="200" width="330" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47npbbdfwv2wl61gaak9a9iifreyc5m1opyv77e30n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </a>
 
-- 📚 Final-year student in Business Informatics at the University of Costa Rica
-  
-- 🔭 I’m currently looking for an intership!
-  
 - 🌱 I’m currently learning Python, Tailwind and JavaScript
     
 - 🌇 Born and raised in Costa Rica. 
   
-- ⚡ I enjoy working in teams and have a strong focus on front-end development.
+- ⚡ I enjoy working in teams and have a strong focus on web-aplication development.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px> </h2>
 <p align="center">
